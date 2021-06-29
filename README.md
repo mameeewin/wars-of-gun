@@ -1,5 +1,5 @@
  
-
+https://makecode.com/_e5rbgMTPWMhc The game
 
 > Open this page at [https://mameeewin.github.io/wars-of-gun/](https://mameeewin.github.io/wars-of-gun/)
 
